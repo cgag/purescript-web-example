@@ -4,7 +4,7 @@ Install grunt and bower globally:
 From this directory:
 `npm install grunt grunt-purescript grunt-contrib-watch`
 
-bower install
+run `bower install`
 
 run `grunt` (or run `grunt watch` and then modify a source file)
 
