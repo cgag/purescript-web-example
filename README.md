@@ -1,3 +1,4 @@
+Install grunt and bower globally:
 `npm install -g grunt grunt-cli bower`
 
 From this directory:
